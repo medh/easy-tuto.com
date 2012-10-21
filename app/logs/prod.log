@@ -1,0 +1,4 @@
+[2012-10-21 13:59:47] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /" (uncaught exception) at C:\wamp\www\easy-tuto\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\RouterListener.php line 92 [] []
+[2012-10-21 13:59:48] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /" (uncaught exception) at C:\wamp\www\easy-tuto\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\RouterListener.php line 92 [] []
+[2012-10-21 13:59:58] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /" (uncaught exception) at C:\wamp\www\easy-tuto\app\cache\prod\classes.php line 5156 [] []
+[2012-10-21 14:00:35] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /" (uncaught exception) at C:\wamp\www\easy-tuto\app\cache\prod\classes.php line 5156 [] []
